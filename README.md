@@ -1,2 +1,3 @@
-# -Logistic_Regression
+# Logistic_Regression
 Решение задачи на определение фальшивых купюр
+2
